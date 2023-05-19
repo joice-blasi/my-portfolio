@@ -49,7 +49,7 @@ export const Home = (): JSX.Element => {
             <Text as="h1" type="heading1" color="grey5">
             Sou{" "}
               <Text as="span" type="heading1" color="brand1">
-                Desenvolvedora Web Front-End
+                Desenvolvedora Web Full-Stack
               </Text>{/* {" "}
               creating and{" "}
               <Text as="span" type="heading1" color="brand1">
