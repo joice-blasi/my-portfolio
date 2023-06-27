@@ -3,7 +3,11 @@ import {
   SiTypescript,
   SiStyledcomponents,
   SiDjango,
-  SiExpress
+  SiExpress,
+  SiNextdotjs,
+  SiTailwindcss,
+  SiNestjs,
+  SiPrisma,
 } from "react-icons/si";
 
 import {
@@ -20,39 +24,55 @@ import {
 export const stackData = [
   {
     title: "HTML5",
-    img: FaHtml5,
+    img: FaHtml5
   },
   {
     title: "CSS3",
-    img: FaCss3Alt,
+    img: FaCss3Alt
   },
   {
-    title: "JS",
-    img: FaJs,
+    title: "JavaScript",
+    img: FaJs
   },
   {
     title: "TypeScript",
-    img: SiTypescript,
+    img: SiTypescript
   },
   {
     title: "React",
-    img: FaReact,
+    img: FaReact
   },
   {
     title: "Styled-Components",
-    img: SiStyledcomponents,
+    img: SiStyledcomponents
+  },
+  {
+    title: "Next.js",
+    img: SiNextdotjs
+  },
+  {
+    title: "Tailwind",
+    img: SiTailwindcss
   },
   {
     title: "Figma",
-    img: FaFigma,
+    img: FaFigma
   },
   {
     title: "Node JS",
-    img: FaNode,
+    img: FaNode
   },
   {
     title: "Express",
     img: SiExpress
+  },
+  {
+    title: "Nest.js",
+    img: SiNestjs,
+  },
+  {
+    title: "Prisma",
+    img: SiPrisma
   },
   {
     title: "PostgreSQL",
